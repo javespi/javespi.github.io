@@ -1,0 +1,40 @@
+body {
+    font-family: 'Droid Sans', serif;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 26px;
+}
+
+.bio {
+    font-size: 20px;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.social {
+    border: 0px;
+}
+
+#content {
+    border: 2px solid #000;
+    margin: 0 auto;
+    width: 300px;
+    margin-top: 50px;
+    text-align: center;
+    vertical-align: center;
+}
+
+#span_mail {
+    width: 200px;
+    height: 50px;
+    padding: 2px;
+    font-size: 16px;
+}
+
+#span_mail img {
+    vertical-align: bottom;
+}
