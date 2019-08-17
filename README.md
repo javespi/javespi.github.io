@@ -1,4 +1,4 @@
 # My personal site
 ===========
 
-My personal site: [http://javespi.com](http://javespi.com)
+My personal site: [https://javespi.github.io](https://javespi.github.io)
