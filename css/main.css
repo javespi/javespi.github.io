@@ -1,49 +1,56 @@
 /* Estilos generales */
 body {
-    font-family: 'Open Sans', 'Droid Sans', Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-  }
-  
-  #content {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 50px;
-    text-align: center;
-  }
-  
-  h1 {
-    font-size: 36px;
-    color: #333;
-    margin-bottom: 20px;
-  }
-  
-  .bio p {
-    font-size: 18px;
-    color: #666;
-  }
-  
-  .social {
-    margin-top: 30px;
-  }
-  
-  .social a {
-    display: inline-block;
-    margin-right: 10px;
-  }
-  
-  .social img {
-    width: 30px;
-    height: 30px;
-  }
-  
-  #span_mail {
-    display: block;
-    font-size: 16px;
-    margin-top: 20px;
-  }
-  
-  .hidden {
-    display: none;
-  }
-  
+  font-family: 'Open Sans', 'Droid Sans', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+#content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 50px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.bio p {
+  font-size: 18px;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.social {
+  margin-top: 30px;
+}
+
+.social a {
+  display: inline-block;
+  margin-right: 10px;
+  width: 40px;
+  height: 40px;
+  background-color: #333;
+  border-radius: 50%;
+}
+
+.social img {
+  width: 20px;
+  height: 20px;
+  margin: 10px;
+  filter: brightness(0) invert(1);
+}
+
+#span_mail {
+  display: block;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.hidden {
+  display: none;
+}
